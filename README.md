@@ -35,7 +35,7 @@ This guide will walk you through transforming the starter code into a complete, 
 #### Step 2: Style the Subscription Section
 
 1. **Update Heading:** In the first `div` under `grid`, update the `h1` tag to include classes for text size, weight, and color. For instance: `class="max-w-lg text-xl font-semibold tracking-tight text-[#313131] xl:text-2xl dark:text-white"`.
-2. **Style the Input and Button:** For the `input` tag, add classes to style the background, text, border, and focus states: `class="px-4 py-2 text-[#313131] bg-white border rounded-md dark:bg-[#313131] dark:text-white dark:border-[#313131] focus:border-[#d86943] dark:focus:border-[#d86943] focus:outline-none focus:ring focus:ring-opacity-40 focus:ring-[#d86943]"`. For the `button`, add classes to style its background, text, hover, and focus states.
+2. **Style the Input and Button:** For the `input` tag, add classes to style the background, text, border, and focus states: `focuclass="px-4 py-2 text-[#313131] bg-white border rounded-md dark:bg-[#313131] dark:text-white dark:border-[#313131] focus:border-[#d86943] dark:focus:border-[#d86943] focus:outline-none focus:ring focus:ring-opacity-40 focus:ring-[#d86943]"`. For the `button`, add classes to style its background, text, hover, and focus states.
 #### Step 3: Style the Quick Links and Technologies Sections
 
 1. **Add Styling to Headings:** In the next two `div` elements (Quick Link and Technologies), update the `p` tags to include classes for font weight and color.
